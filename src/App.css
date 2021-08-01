@@ -1,0 +1,63 @@
+@import url(
+'https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url(
+'https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,600;0,800;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&display=swap');
+.App {
+height: 120vh;
+width: 100vw;
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: #ebc1c1;
+background-image: linear-gradient(315deg, #cc8b8b 0%, #e9e9e9 74%);
+font-family:'Poppins', sans-serif;
+}
+
+h1 {
+text-align: center;
+font-size: 2.7em;
+font-family: 'Lobster Two', cursive;
+color: #416b3b;
+padding: 1.5em;
+}
+
+h2{
+font-size:25px;
+text-decoration: italic;
+padding-bottom: 20px;
+background-color: #cc8b8b;
+}
+
+h4{
+color: #416b3b;
+}
+
+input{
+width: 400px;
+height: 38px;
+font-size: 20px;
+padding-left: 10px;
+}
+
+.searchBox > button{
+background-color: #416b3b;
+height: 38px;
+width: 60px;
+border: none;
+color: white;
+box-shadow: 0px 3px 2px #416b3b;
+cursor: pointer;
+padding: 0;
+}
+
+.showResults{
+width: 500px;
+padding: 20px;
+}
+
+.showResults > h2 > button{
+background: none;
+border: none;
+cursor: pointer;
+}
