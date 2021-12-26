@@ -1,6 +1,8 @@
 # DICTIONARY-APP
 # Getting Started with Create React App
 
+![Screenshot (495)](https://user-images.githubusercontent.com/54631311/147415041-623ecd5e-a675-4a83-8686-2140dd3e43aa.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
